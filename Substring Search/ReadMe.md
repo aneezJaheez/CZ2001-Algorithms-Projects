@@ -1,16 +1,11 @@
-Files in this folder : 
+##Files in this folder : 
 
-main.py		  - Driver code to execute search algorithms
-
-BruteForce.py 	  - Contains the implementation code for the naive search algorithm
-
-HorspoolSunday.py - Contains the implementation code for the Boyer-Moore-Horspool-Sunday Search algorithm
-
-OriginalAlgo.py	  - Contains the implementation code for our own Original Search Algorithm
-
-genomic.fna 	  - Fasta (.fna) that contains the genome sequence to be searched.
-
-R64.txt 	  - Fasta (.txt) document that contains a genome sequence that can be searched.
+*main.py		  - Driver code to execute search algorithms
+*BruteForce.py 	  - Contains the implementation code for the naive search algorithm
+*HorspoolSunday.py - Contains the implementation code for the Boyer-Moore-Horspool-Sunday Search algorithm
+*OriginalAlgo.py	  - Contains the implementation code for our own Original Search Algorithm
+*genomic.fna 	  - Fasta (.fna) that contains the genome sequence to be searched.
+*R64.txt 	  - Fasta (.txt) document that contains a genome sequence that can be searched.
 
 
 Requirements to run main.py:
